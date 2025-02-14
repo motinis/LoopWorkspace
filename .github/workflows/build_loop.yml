@@ -283,8 +283,7 @@ jobs:
           /bin/bash -c "$(curl -fsSL \
           https://raw.githubusercontent.com/loopandlearn/lnl-scripts/main/CustomizationSelect.sh)" \
           future_carbs_4h \
-          meal_days \
-          bolus_display
+          meal_days          
 
       # Patch Fastlane Match to not print tables
       - name: Patch Match Tables
