@@ -1,5 +1,5 @@
 {
-  "originHash" : "13adedca18a3f4ac3963d57d0f79cab5cd588fc2bb4bfac2f29ff4f88e7829d9",
+  "originHash" : "64b4cb715a2fedae2307f1b9db5ae0d3e365ceb2a8184b8e5fb6469f11035879",
   "pins" : [
     {
       "identity" : "amplitude-ios",
@@ -61,7 +61,7 @@
       "location" : "https://github.com/motinis/NightscoutKit/",
       "state" : {
         "branch" : "abc",
-        "revision" : "ca4a075e959fb96e33b72c77ce3e800c4a7db295"
+        "revision" : "867e9e7b21eed36e8714c284704710b7e829cde3"
       }
     },
     {
